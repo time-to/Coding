@@ -1,5 +1,2 @@
 # Coding
-1. A numbered list
-              1. A nested numbered list
-              2. Which is numbered
-2. Which is numbered
+1. Given an array of distinct elements. The task is to find triplets in array whose sum is zero
